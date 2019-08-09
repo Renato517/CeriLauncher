@@ -8,6 +8,7 @@
 [portugal]  pt:       Bem-vindo ao Ceri Launcher
 [russia]    ru:       Добро пожаловать в Ceri Launcher
 [poland]    pl:       Witamy w Ceri Launcher
+[brazil]    br:       Bem-vindo ao Ceri launcher
 
 [america]   en-us:    Your Android experience is about to become even more beautiful.
 [germany]   de:       Ihr Android-Erlebnis wird noch schöner.
@@ -16,9 +17,10 @@
 [india]     hi:       
 [czechia]   cz:       
 [spain]     es:       
-[portugal]  pt:       
+[portugal]  pt:         
 [russia]    ru:       
 [poland]    pl:       Za chwilę Twój system Android stanie się jeszcze piękniejszy.
+[brazil]    br:       Sua experiência Android está prestes a se tornar ainda mais bonita.
 
 [america]   en-us:    Let's get started.
 [germany]   de:       
@@ -29,7 +31,8 @@
 [spain]     es:       
 [portugal]  pt:       
 [russia]    ru:       
-[poland]    pl:       	
+[poland]    pl:
+[brazil]    br:       Vamos começar.       	
 
 [america]   en-us:    Choose your style
 [germany]   de:       
@@ -40,7 +43,8 @@
 [spain]     es:       
 [portugal]  pt:       
 [russia]    ru:       
-[poland]    pl:       	
+[poland]    pl:  
+[brazil]    br:       Escolha seu estilo     	
 
 [america]   en-us:    All apps
 [germany]   de:       
@@ -51,7 +55,8 @@
 [spain]     es:       
 [portugal]  pt:       
 [russia]    ru:       
-[poland]    pl:       	
+[poland]    pl:   
+[brazil]    br:       Todos os aplicativos     	
 
 [america]   en-us:    Only favorites
 [germany]   de:       
@@ -62,7 +67,8 @@
 [spain]     es:       
 [portugal]  pt:       
 [russia]    ru:       
-[poland]    pl:       	
+[poland]    pl: 
+[brazil]    br:       Somente favoritos       	
 
 [america]   en-us:    Favorites stay at the top
 [germany]   de:       
@@ -73,7 +79,8 @@
 [spain]     es:       
 [portugal]  pt:       
 [russia]    ru:       
-[poland]    pl:       	
+[poland]    pl:  
+[brazil]    br:       Favoritos ficam no topo     	
 
 [america]   en-us:    Just your favorites, nothing else
 [germany]   de:       
@@ -84,7 +91,8 @@
 [spain]     es:       
 [portugal]  pt:       
 [russia]    ru:       
-[poland]    pl:       	
+[poland]    pl: 
+[brazil]    br:       Apenas seus favoritos , nada mais      	
 
 [america]   en-us:    Swipe down to search
 [germany]   de:       
@@ -95,7 +103,8 @@
 [spain]     es:       
 [portugal]  pt:       
 [russia]    ru:       
-[poland]    pl:       	
+[poland]    pl: 
+[brazil]    br:       Deslize para baixo para pesquisar      	
 
 [america]   en-us:    One last thing
 [germany]   de:       
@@ -107,6 +116,7 @@
 [portugal]  pt:       
 [russia]    ru:       
 [poland]    pl:       	
+[brazil]    br:       Uma última coisa
 
 [america]   en-us:    Unlike some other launchers, this one does not collect or send any information from your device, for analytics, advertising or any other purpose. This means I rely completely on user feedback to help make Ceri Launcher better. Please consider joining the Ceri Launcher subreddit or sending me an email with your thoughts. I'd appreciate it a lot! - jckpn
 [germany]   de:       
@@ -118,6 +128,6 @@
 [portugal]  pt:       
 [russia]    ru:       
 [poland]    pl:       	
-
+[brazil]    br:       Ao contrário de outros lançadores, este não coleta nem envia informações do seu dispositivo para fins de análise, publicidade ou qualquer outra finalidade.  Isso significa que confio completamente no feedback do usuário para ajudar a tornar o Ceri Launcher melhor.  Por favor, considere juntar-se ao subreddit Ceri Launcher ou enviar-me um e-mail com seus pensamentos.  Eu apreciaria muito!  - jckpn
 
 
